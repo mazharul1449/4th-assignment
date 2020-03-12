@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: cyan;
+    text-align: center;
+    padding: 20px;
+    overflow: hidden;
+}
+nav{
+    background-color: blueviolet;
+    height: 200px;
+}
+nav h1{
+    color: black;
+    text-align: center;
+    padding: 25px;
+}
+.logo{
+    width: 30%;
+    background-color: cornflowerblue;
+    float: left;
+    color: black;
+}
+.header{
+    width: 70%;
+    background-color: olive;
+    float: right;
+    color: black;
+}
+article{
+    background-color:orangered;
+    height: 600px;
+    overflow: hidden;
+}
+.left{
+    width: 20%;
+    background-color: orange;
+    height: 600px;
+    float: left;
+}
+.left h1{
+    color: black;
+    text-align: center;
+    padding: 25px;
+}
+.Right{
+    width: 80%;
+    background-color: royalblue;
+    height: 600px;
+    float: left;
+}
+.top{
+    background-color: mediumseagreen;
+    height: 200px;
+}
+.top h1{
+    color: black;
+    text-align: center;
+    padding: 15px;
+}
+.center{
+    background-color: palevioletred;
+    height: 200px;
+}
+.bottom{
+    background-color: greenyellow;
+    height: 250px;
+    overflow: hidden;
+}
+.bottom h1{
+    color: black;
+    text-align: center;
+    padding: 15px;
+}
+.center-left{
+    width: 70%;
+    height: 100%;
+    background-color: palevioletred;
+    float: left;
+}
+.center-left h1{
+    color: black;
+    text-align: center;
+    padding: 15px;
+}
+.center-right{
+    width: 30%;
+    height: 100%;
+    background-color: purple;
+    float: right;
+}
+.center-right h1{
+    color: black;
+    text-align: center;
+    padding: 15px;
+}
+footer{
+    background-color:skyblue;
+}
+footer h1{
+    color:black;
+    text-align: center;
+    padding: 20px;
+}
